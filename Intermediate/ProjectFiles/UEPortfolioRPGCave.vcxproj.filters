@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UEPortfolioRPGCave.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E80B19C8-3811-42F3-9314-C864E0F80E88}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEPortfolioRPGCave.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UEPortfolioRPGCaveEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4CC8FD88-792B-457D-9C69-05F8C3D0ADF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UEPortfolioRPGCave">
+      <UniqueIdentifier>{117E3896-6F78-45EE-85D8-DA6F35F59D30}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCave.Build.cs">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCave.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCave.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCaveCharacter.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCaveCharacter.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCaveGameMode.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCaveGameMode.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCavePlayerController.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\UEPortfolioRPGCavePlayerController.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\Pillar.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\IInteract.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\Interactive.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\Lever.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\Door.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UEPortfolioRPGCave\EnemyCharacter.h">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\Pillar.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\IInteract.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\Interactive.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\Lever.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\Door.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UEPortfolioRPGCave\EnemyCharacter.cpp">
+      <Filter>Source\UEPortfolioRPGCave</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

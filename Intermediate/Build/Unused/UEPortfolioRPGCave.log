@@ -1,0 +1,25 @@
+﻿  Building UEPortfolioRPGCaveEditor...
+  Using Visual Studio 2019 14.24.28316 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 4 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  Temporary license has expired:
+      Your Agent's temporary license has expired. IncrediBuild will allow you to utilize up to 8 cores on your local machine.
+       To unleash IncrediBuild's capabilities to utilize idle cores in your network in order to achieve increased performance, please contact sales@incredibuild.com
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  UEPortfolioRPGCaveCharacter.cpp (0:02.37 at +0:00)
+  UE4Editor-UEPortfolioRPGCave-0175.lib (0:00.21 at +0:02)
+     Creating library C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UE4Editor-UEPortfolioRPGCave-0175.lib and object C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UE4Editor-UEPortfolioRPGCave-0175.exp
+  UE4Editor-UEPortfolioRPGCave-0175.dll (0:01.43 at +0:02)
+     Creating library C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UE4Editor-UEPortfolioRPGCave-0175.suppressed.lib and object C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UE4Editor-UEPortfolioRPGCave-0175.suppressed.exp
+  UEPortfolioRPGCaveEditor.target (0:00.35 at +0:03)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - Temporary license has expired
+  
+  Total time in XGE executor: 4.52 seconds
+  Total execution time: 5.37 seconds

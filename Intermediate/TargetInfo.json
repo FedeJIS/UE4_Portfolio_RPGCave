@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UEPortfolioRPGCave",
+			"Path": "C:\\Users\\federico.iribarren\\Documents\\Unreal Projects\\UEPortfolioRPGCave\\Source\\UEPortfolioRPGCave.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UEPortfolioRPGCaveEditor",
+			"Path": "C:\\Users\\federico.iribarren\\Documents\\Unreal Projects\\UEPortfolioRPGCave\\Source\\UEPortfolioRPGCaveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UEPortfolioRPGCave-5044.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UEPortfolioRPGCaveEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Door.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Interactive.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Lever.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Pillar.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCave.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCaveCharacter.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCaveGameMode.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCavePlayerController.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Door.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Interactive.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Lever.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Pillar.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCave.init.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCaveCharacter.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCaveGameMode.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UEPortfolioRPGCavePlayerController.gen.cpp.obj"
+"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Default.rc2.res"
+/OUT:"C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\UE4Editor-UEPortfolioRPGCave-5044.lib"
+/INCLUDE:IMPLEMENT_MODULE_UEPortfolioRPGCave

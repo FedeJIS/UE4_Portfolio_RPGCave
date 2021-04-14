@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\federico.iribarren\\Documents\\Unreal Projects\\UEPortfolioRPGCave\\Source\\UEPortfolioRPGCave\\UEPortfolioRPGCave.Build.cs",
+		"C:\\Users\\federico.iribarren\\Documents\\Unreal Projects\\UEPortfolioRPGCave\\Source\\UEPortfolioRPGCave.Target.cs",
+		"C:\\Users\\federico.iribarren\\Documents\\Unreal Projects\\UEPortfolioRPGCave\\Source\\UEPortfolioRPGCaveEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

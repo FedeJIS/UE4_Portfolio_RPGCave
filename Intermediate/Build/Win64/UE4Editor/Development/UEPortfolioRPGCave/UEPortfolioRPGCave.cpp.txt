@@ -1,0 +1,2 @@
+C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Definitions.UEPortfolioRPGCave.h
+C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Source\UEPortfolioRPGCave\UEPortfolioRPGCave.h

@@ -1,0 +1,7 @@
+C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Development\UEPortfolioRPGCave\Definitions.UEPortfolioRPGCave.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Source\UEPortfolioRPGCave/Pillar.h
+C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Source\UEPortfolioRPGCave\Interactive.h
+C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Inc\UEPortfolioRPGCave\Interactive.generated.h
+C:\Users\federico.iribarren\Documents\Unreal Projects\UEPortfolioRPGCave\Intermediate\Build\Win64\UE4Editor\Inc\UEPortfolioRPGCave\Pillar.generated.h
